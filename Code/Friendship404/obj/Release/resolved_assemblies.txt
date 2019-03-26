@@ -1,0 +1,11 @@
+D:\0001Documents\Projects Visual Studio\Xamarin\Friendship404\Friendship404\obj\Release\android\assets\Friendship404.dll
+D:\0001Documents\Projects Visual Studio\Xamarin\Friendship404\Friendship404\obj\Release\android\assets\Java.Interop.dll
+D:\0001Documents\Projects Visual Studio\Xamarin\Friendship404\Friendship404\obj\Release\android\assets\Microsoft.CSharp.dll
+D:\0001Documents\Projects Visual Studio\Xamarin\Friendship404\Friendship404\obj\Release\android\assets\Mono.Android.dll
+D:\0001Documents\Projects Visual Studio\Xamarin\Friendship404\Friendship404\obj\Release\android\assets\mscorlib.dll
+D:\0001Documents\Projects Visual Studio\Xamarin\Friendship404\Friendship404\obj\Release\android\assets\System.Core.dll
+D:\0001Documents\Projects Visual Studio\Xamarin\Friendship404\Friendship404\obj\Release\android\assets\System.dll
+D:\0001Documents\Projects Visual Studio\Xamarin\Friendship404\Friendship404\obj\Release\android\assets\System.Xml.dll
+D:\0001Documents\Projects Visual Studio\Xamarin\Friendship404\Friendship404\obj\Release\android\assets\Mono.CSharp.dll
+D:\0001Documents\Projects Visual Studio\Xamarin\Friendship404\Friendship404\obj\Release\android\assets\System.Runtime.Serialization.dll
+D:\0001Documents\Projects Visual Studio\Xamarin\Friendship404\Friendship404\obj\Release\android\assets\Mono.Security.dll
